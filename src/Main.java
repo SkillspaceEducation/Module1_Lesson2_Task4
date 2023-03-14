@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Введите целое число (количество рублей)");
         Scanner scanner = new Scanner(System.in);
         int money = scanner.nextInt();
+        scanner.close();
 //        Для проверки
 //        for (int money = 0; money < 1000; money++) {
 //            System.out.printf("В вашем распоряжении %d руб" + quantityMoney(money), money);

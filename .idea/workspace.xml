@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da3196d4-3e4e-43ab-94d7-e4c3a8218409" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2_Task4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="da3196d4-3e4e-43ab-94d7-e4c3a8218409" name="Changes" comment="Задать целое число в виде переменной, это число – сумма денег в рублях.&#10;Вывести это число на экран, добавив к нему слово «рублей» в правильном падеже.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678816101317</updated>
     </task>
+    <task id="LOCAL-00001" summary="Задать целое число в виде переменной, это число – сумма денег в рублях.&#10;Вывести это число на экран, добавив к нему слово «рублей» в правильном падеже.">
+      <created>1678819735645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678819735645</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задать целое число в виде переменной, это число – сумма денег в рублях.&#10;Вывести это число на экран, добавив к нему слово «рублей» в правильном падеже." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задать целое число в виде переменной, это число – сумма денег в рублях.&#10;Вывести это число на экран, добавив к нему слово «рублей» в правильном падеже." />
   </component>
 </project>
